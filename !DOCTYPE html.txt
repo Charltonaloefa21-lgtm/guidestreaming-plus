@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>GuideStreaming+ – Comparez les plateformes</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header>
+    <h1>GuideStreaming+</h1>
+    <nav>
+      <a href="index.html">Accueil</a>
+      <a href="catalogue.html">Catalogue</a>
+      <a href="comparateur.html">Comparateur</a>
+      <a href="blog.html">Blog</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Bienvenue sur GuideStreaming+</h2>
+    <p>Comparez les plateformes de streaming et trouvez celle qui vous correspond.</p>
+  </main>
+
+  <footer>
+    <p>© 2026 GuideStreaming+</p>
+    <nav>
+      <a href="mentions.html">Mentions légales</a> |
+      <a href="privacy.html">Politique de confidentialité</a> |
+      <a href="cgu.html">Conditions d’utilisation</a>
+    </nav>
+  </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Catalogue – GuideStreaming+</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header>
+    <h1>Catalogue des plateformes</h1>
+  </header>
+
+  <main>
+    <h2>Plateformes disponibles</h2>
+    <ul>
+      <li>Netflix</li>
+      <li>Amazon Prime Video</li>
+      <li>Disney+</li>
+      <li>Canal+</li>
+      <li>Crunchyroll</li>
+    </ul>
+  </main>
+
+  <footer>
+    <p>© 2026 GuideStreaming+</p>
+  </footer>
+</body>
+</html><!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Comparateur – GuideStreaming+</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header>
+    <h1>Comparateur de plateformes</h1>
+  </header>
+
+  <main>
+    <table border="1" cellpadding="10">
+      <tr>
+        <th>Plateforme</th>
+        <th>Prix</th>
+        <th>Qualité</th>
+        <th>Catalogue</th>
+      </tr>
+      <tr>
+        <td>Netflix</td>
+        <td>8,99€</td>
+        <td>4K</td>
+        <td>Très large</td>
+      </tr>
+      <tr>
+        <td>Prime Video</td>
+        <td>6,99€</td>
+        <td>4K</td>
+        <td>Large</td>
+      </tr>
+      <tr>
+        <td>Disney+</td>
+        <td>8,99€</td>
+        <td>4K</td>
+        <td>Familial</td>
+      </tr>
+    </table>
+  </main>
+
+  <footer>
+    <p>© 2026 GuideStreaming+</p>
+  </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Blog – GuideStreaming+</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header>
+    <h1>Blog GuideStreaming+</h1>
+  </header>
+
+  <main>
+    <h2>Articles récents</h2>
+    <ul>
+      <li>Quel service de streaming choisir en 2026 ?</li>
+      <li>Top 10 des séries à ne pas manquer</li>
+      <li>Comment économiser sur vos abonnements ?</li>
+    </ul>
+  </main>
+
+  <footer>
+    <p>© 2026 GuideStreaming+</p>
+  </footer>
+</body>
+</html><!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact – GuideStreaming+</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header>
+    <h1>Contact</h1>
+  </header>
+
+  <main>
+    <form>
+      <label>Nom :</label><br>
+      <input type="text"><br><br>
+
+      <label>Email :</label><br>
+      <input type="email"><br><br>
+
+      <label>Message :</label><br>
+      <textarea></textarea><br><br>
+
+      <button type="submit">Envoyer</button>
+    </form>
+  </main>
+
+  <footer>
+    <p>© 2026 GuideStreaming+</p>
+  </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Page non trouvée – GuideStreaming+</title>
+  <style>
+    body { font-family: Arial; text-align: center; padding: 80px; }
+    h1 { font-size: 60px; }
+    a { color: #0066ff; text-decoration: none; }
+  </style>
+</head>
+<body>
+  <h1>404</h1>
+  <p>Oups… cette page n’existe pas.</p>
+  <a href="index.html">Retour à l’accueil</a>
+</body>
+</html>
+User-agent: *
+Allow: /
+Sitemap: https://tonpseudo.github.io/guidestreaming-plus/sitemap.xml
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://tonpseudo.github.io/guidestreaming-plus/</loc></url>
+  <url><loc>https://tonpseudo.github.io/guidestreaming-plus/catalogue.html</loc></url>
+  <url><loc>https://tonpseudo.github.io/guidestreaming-plus/comparateur.html</loc></url>
+  <url><loc>https://tonpseudo.github.io/guidestreaming-plus/blog.html</loc></url>
+  <url><loc>https://tonpseudo.github.io/guidestreaming-plus/contact.html</loc></url>
+  <url><loc>https://tonpseudo.github.io/guidestreaming-plus/mentions.html</loc></url>
+  <url><loc>https://tonpseudo.github.io/guidestreaming-plus/privacy.html</loc></url>
+  <url><loc>https://tonpseudo.github.io/guidestreaming-plus/cgu.html</loc></url>
+</urlset>
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f7f7f7;
+  color: #222;
+}
+
+header, footer {
+  background: #111;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+main {
+  padding: 40px;
+  max-width: 900px;
+  margin: auto;
+}
+console.log("GuideStreaming+ chargé !");
+
+
